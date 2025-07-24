@@ -1,4 +1,8 @@
 streamlit
+gtts
+google-generativeai
+pydub
+ffmpeg-python
 openai-whisper
-torchaudio
-soundfile
+torch
+numpy
